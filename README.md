@@ -84,3 +84,15 @@ The image can be downloaded using a dynamically created anchor (`<a>`) element.
 
 **3.Download OG Image**
 - View the generated OG image and click the download button to save it.
+
+**screenshots**
+
+1. Uploading
+![image](https://github.com/user-attachments/assets/c266f0c4-3d71-4b86-8f4f-1bc0fdb6f158)
+
+2.Preview
+![image](https://github.com/user-attachments/assets/7249584a-6270-4ce0-a14d-12690ab3d236)
+
+3.Download Generated Image
+![image](https://github.com/user-attachments/assets/4355b4e0-4dff-4874-a346-bbc0e6295c47)
+
